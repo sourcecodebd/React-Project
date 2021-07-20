@@ -1,0 +1,2 @@
+# React-Project
+E-Pay, a payment app for the customers, made with growing PHP framework Laravel. Feel free to check the live site as well as the source code. E-Pay is a financial service in Bangladesh that allows users to make financial transactions through their mobile phones. More than depositing money into your mobile accounts, you can also access a range of services, particularly transferring and receiving money domestically. You can also use the website to make payments for your utilities, such as mobile bills—both prepaid and postpaid.
